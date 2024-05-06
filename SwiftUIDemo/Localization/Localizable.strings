@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  SwiftUIDemo
+
+  Created by Himanshu on 27/03/24.
+  
+*/
+
+
+
+"action.createhere" = "Create Here";
+"action.login" = "Log in";
+"action.signin" = "Sign up";
+"action.forgot.password" = "Forgot password?";
+
+
+"auth.google.login" = "Sign In with Google";
+"auth.google.signin" = "Google";
+"auth.facebook.login" = "Sign In with Facebook";
+"auth.facebook.signin" = "facebook";
+"auth.text.alreadyaccount" = "Already have an account?";
+"auth.text.condition" = "By Creating your account you have to agree with our Terms and Condition";
+"auth.text.notaccount" = "Don't have an account?";
+"auth.text.options.socialmedia" = "Or continue with social account";
+
+
+"form.head.email" = "Email Address";
+"form.head.password" = "Password";
+"form.head.username" = "Username";
+"form.placeholder.email" = "Enter your email address";
+"form.placeholder.password" = "Enter your password";
+"form.placeholder.username" = "Enter your username";
+
+"greeting.head.login" = "Welcome Back!";
+"greeting.head.signin" = "Come on in!";
+"greeting.sublines.login" = "Log in with your data that you entered during registration.";
+"greeting.sublines.signin" = "Sign up by entering your information for registration.";
+
+
+
+

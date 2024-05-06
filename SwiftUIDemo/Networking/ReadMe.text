@@ -1,0 +1,19 @@
+//
+//  REadMe.swift
+//  Project Structure
+//
+//  Created by Himanshu on 05/03/24.
+//
+
+
+don't forgote this things For network code
+
+
+    1) replace baseUrl to your baseUrl
+    2) Token remove
+    3) This API Calling Structure use following extentions files
+        - URL+Paths
+        - KeyedDecodingContainer+Helpers
+        - String+ApplicationSuffix
+    4) JSONDataTypeValue file use from Data
+    
